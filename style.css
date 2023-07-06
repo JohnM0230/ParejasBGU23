@@ -1,0 +1,89 @@
+@font-face {
+    font-family:varsity;
+    src: url(/Fuentes/varsity_regular.ttf);
+}
+@font-face {
+    font-family:roboto;
+    src: url(/Fuentes/RobotoMono-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family:bloody;
+    src: url(/Fuentes/BLOODY.TTF);
+}
+@font-face {
+    font-family:gemstone;
+    src: url(/Fuentes/Gemstone.ttf);
+}
+@font-face {
+    font-family:valegan;
+    src: url(/Fuentes/Valegan\ Demo.otf);
+}
+#naguara{
+    font-family:varsity;
+    height: 40px;
+}
+
+#navbarDropdown{
+    font-family: roboto;
+    height:55%;
+}
+
+.nav-link{
+    font-family: roboto;
+    height:55%;
+}
+#imagencarousel{
+    max-height: 500px;
+    max-width: 100%;
+    object-fit: contain;
+    background-image: url(/Imagenes/fondojej4.png) ;
+}
+#cashuar{
+    color: white;
+    font-family: gemstone;
+    font-size: xx-large;
+}
+#cashuartext{
+    color: white;
+    font-size: larger; 
+    font-family: valegan;
+}
+#chavijej{
+    color: white;
+    font-size: xx-large;
+    font-family: bloody;
+}
+#chavijejtext{
+    color:white;
+    font-size: larger;
+    font-family: valegan;
+}
+#wachovich{
+    color: #ffffff;
+    font-size: xx-large;
+    font-family: gemstone;
+
+}
+#wachovichtext{
+    color: white;
+    font-size: large;
+    font-family: bloody;
+}
+#amelia{
+    color: white;
+    font-size: xx-large; 
+    font-family: valegan;
+}
+#ameliatext{
+    color: white;
+    font-size:medium; 
+    font-family: valegan;
+}
+
+body{
+    background-color:#272b30 ;
+
+}
+h1{
+    color: whitesmoke;
+}
